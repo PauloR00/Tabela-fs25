@@ -10,7 +10,7 @@ git status
 ### 2. Adicionando os arquivos (todos)
 
 ```bash
-git add
+git add .
 ```
 
 ### 3. Verificar o status do adicionar
